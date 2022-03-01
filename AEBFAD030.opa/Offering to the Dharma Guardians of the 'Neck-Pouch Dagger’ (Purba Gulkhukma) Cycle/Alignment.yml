@@ -1,0 +1,13 @@
+segment_sources:
+  PE58C77F1:
+    type: origin_type
+    relation: translation
+    language: en
+  P4A0343BD:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  9ae7ef524bc540589ae61e55ac2d699a:
+    PE58C77F1: 87180d84917b46759b4a4e239a36391c
+    P4A0343BD: e9eb5c78f8f045c2ba9bcc2c1f9f6b37
